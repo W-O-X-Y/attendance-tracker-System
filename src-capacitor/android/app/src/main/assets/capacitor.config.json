@@ -1,0 +1,7 @@
+{
+  "appId": "wox.trk.app",
+  "appName": "Attendance Tracker 2020",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

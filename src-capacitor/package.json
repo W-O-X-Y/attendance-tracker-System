@@ -1,0 +1,12 @@
+{
+  "name": "attendance-tracker-2020",
+  "version": "0.0.1",
+  "description": "Fingerprint, web-based employee attendance tracker",
+  "author": "WOXY",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.4.4",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
