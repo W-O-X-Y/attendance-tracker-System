@@ -53,7 +53,7 @@
 
 export default {
   name: "Terminal",
-  components: { /*Lottie*/, xbg },
+  components: { /*Lottie,*/ xbg },
   data() {
     return {
       defaultOptions: { animationData: animationData.default },
