@@ -49,7 +49,7 @@
 <script>
 //import Lottie from "../components/lottie";
 //import * as animationData from "../assets/BT.json";
-//import xbg from "src/components/xbg.vue";
+import xbg from "src/components/xbg.vue";
 
 export default {
   name: "Terminal",
