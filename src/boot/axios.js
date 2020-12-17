@@ -4,6 +4,6 @@ import {ipAddress} from '../boot/startupSettings'
 
 
 Vue.prototype.$axios = axios.create({
-    baseURL: `http://${ipAddress}:3000`,
+    baseURL: `https://${ipAddress}:3000`,
     timeout: 1000
 })
