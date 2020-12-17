@@ -5,5 +5,5 @@ import {ipAddress} from '../boot/startupSettings'
 // "async" is optional;
 
 
-Vue.prototype.$io = io(`https://${ipAddress}:3000`)
+Vue.prototype.$io = io(`https://${ipAddress}`)
  
