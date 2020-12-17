@@ -1,7 +1,0 @@
-{
-  "appId": "com.trk.co",
-  "appName": "Attendance Tracker 2020",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "www"
-}
