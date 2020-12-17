@@ -26,13 +26,13 @@
       <div class="q-ma-sm col">
         <q-card class="column q-pa-xs flex flex-center x-rounded">
           <q-card-section class=" q-pa-xs flex flex-center">
-     //       <lottie
-      //        :options="defaultOptions"
-          //    @animCreated="controlAnimation"
-        //      @complete="reverseAnimation"
-        //      :height="150"
-        //      :width="150"
-        //    />
+            <lottie
+              :options="defaultOptions"
+              @animCreated="controlAnimation"
+              @complete="reverseAnimation"
+              :height="150"
+              :width="150"
+            />
           </q-card-section>
           <q-card-section class=" q-pa-xs  flex flex-center">
             <q-badge
@@ -53,7 +53,7 @@ import xbg from "src/components/xbg.vue";
 
 export default {
   name: "Terminal",
-  components: { /*Lottie,*/ xbg },
+  components: { Lottie, xbg },
   data() {
     return {
       defaultOptions: { animationData: animationData.default },
