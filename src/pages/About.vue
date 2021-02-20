@@ -20,18 +20,8 @@
         <div class="col">
           <q-badge
             class="q-px-md q-py-sm q-ma-xs text-h6 x-rounded"
-            label="Muhammad El Mostafa"
+            label="Ibrahim Muhammad Abdallah"
           />
-          <q-badge
-            class="q-px-md q-py-sm q-ma-xs text-h6 x-rounded"
-            label="Muhammad Mostafa"
-          />
-          <q-badge
-            class="q-px-md q-py-sm q-ma-xs text-h6 x-rounded"
-            label="Ahmad Mousa"
-          />
-        </div>
-
         <br />
         <span class="col text-primary text-italic text-center text-h6">
           © All Rights Reserved 2020</span
