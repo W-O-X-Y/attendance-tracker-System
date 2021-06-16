@@ -1,4 +1,4 @@
-# Attendance Tracker 2020 (attendance-tracker-alpha)
+# Attendance Tracker Module (attendance-tracker-alpha)
 
 Fingerprint, web-based employee attendance tracker
 
