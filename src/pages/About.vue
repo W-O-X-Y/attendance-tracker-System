@@ -22,10 +22,6 @@
             class="q-px-md q-py-sm q-ma-xs text-h6 x-rounded"
             label="Ibrahim Muhammad Abdallah"
           />
-        <br />
-        <span class="col text-primary text-italic text-center text-h6">
-          © All Rights Reserved 2020</span
-        >
       </q-card-section>
     </q-card>
   </q-page>
