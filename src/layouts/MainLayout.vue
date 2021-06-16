@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title class="items-center ">
-          Attendance Tracker 2020
+          Attendance Tracker Module (alpha v0.2)
         </q-toolbar-title>
 
         <!-- <div>Quasar v{{ $q.version }}</div> -->
